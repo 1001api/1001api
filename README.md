@@ -1,6 +1,6 @@
-# 👋 Hey there, I'm Ten Oh One!
+# 👋 Hey there, I'm TenOhOne!
 
-I love building **practical tools** that solve **real problems** — whether it’s authentication, analytics, security, or developer utilities.
+I love building **practical tools** that solve **real problems**, whether it’s software-as-a-service, analytics, security, or developer utilities.
 
 This repo is a **collection of all my public & open-source projects.**  
 Most of them started as **fun side projects**, but many have grown into **production-ready services** that anyone can use.
