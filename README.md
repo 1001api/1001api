@@ -42,6 +42,13 @@ Internal **Fastify-based AI assistant** used by Sentinel to generate **LLM-power
 
 ---
 
+![banner](https://i.imgur.com/q9dM8cf.png)
+### [Sentinel Probe / Client](https://github.com/1001api/sentinel-probe)
+
+Lightweight web analytics probe that captures user interactions and page visits, sending telemetry to Sentinel server. Privacy-focused client agent with minimal footprint for tracking clicks, page loads, and device metadata.
+
+---
+
 ![banner](https://i.imgur.com/l0qSJEs.png)  
 ### [VOD Web](https://github.com/1001api/vod-web)
 
