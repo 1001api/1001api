@@ -11,8 +11,19 @@ All projects listed here are released under the **MIT License**, meaning you're 
 
 If you find it useful, **dropping a ⭐ star** would absolutely make my day!
 
+## Featured 🫶👀
 
-## Projects
+![banner](https://i.imgur.com/QMg08hA.png)
+### Lapor Warga
+Latest "my state-of-the-art" project of public citizen reporting system powered heavily with Postgres PostGIS. A work in progress so the contributions are very much welcome.
+
+[Backend - GO](https://github.com/1001api/laporwarga-be)
+[Website - Svelte](https://github.com/1001api/laporwarga-web)
+[Mobile - RN](https://github.com/1001api/laporwarga-rn)
+
+<br/>
+
+## Others Projects
 
 ![banner](https://i.imgur.com/N1mLxOx.png)  
 ### [SSO Web](https://github.com/1001api/sso-web)
